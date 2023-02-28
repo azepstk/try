@@ -1,0 +1,9 @@
+[
+    {"id": "OR", "location": "USA: Corvalis, OR", "prefix" : "\\\\adwpro2.cor.hpicorp.net\\installers$\\"},
+    {"id": "ID", "location": "USA: Boise, ID", "prefix" : "\\\\adwpro7.boi.hpicorp.net\\installers$\\"},
+    {"id": "Master", "location": "USA: Datacenter (MASTER)", "prefix" : "\\\\adwpro1cluster.auth.hpicorp.net\\installers\\"},
+    {"id": "CA", "location": "USA: San Diego, CA ", "prefix" : "\\\\adwpro5.sdd.hpicorp.net\\installers$\\"},
+    {"id": "Washington", "location": "USA: Vancouver, WA", "prefix" : "\\\\adwpro10.us.hpicorp.net\\installers$\\"},
+    {"id": "Spain", "location": "EMEA: Barcelona, Spain", "prefix" : "\\\\adwpro8.es.hpicorp.net\\installers$\\"},
+    {"id": "Singapore", "location": "Asia: Singapore", "prefix" : "\\\\adwpro4.sg.hpicorp.net\\installers$\\"}
+]
